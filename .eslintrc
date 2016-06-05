@@ -1,0 +1,29 @@
+{
+  "env": {
+    "browser": true,
+    "meteor": true,
+    "node": true
+  },
+  "extends": [
+    "airbnb",
+    "plugin:meteor/recommended"
+  ],
+  "plugins": [
+    "meteor"
+  ],
+  "rules": {
+    "new-cap": ["error", {
+      "capIsNewExceptions": [
+        "Match.Any", "Match.Object", "Match.ObjectIncluding",
+        "Match.OneOf", "Match.Optional", "Match.Where", "Match.Integer",
+        "Match.Maybe"
+      ]
+    }],
+    "meteor/eventmap-params": [ "error", {
+      "templateInstanceParamName": "instance"
+    }],
+    "import/no-unresolved": [ "error", {
+      "ignore": ["^meteor/"]
+    }]
+  }
+}
