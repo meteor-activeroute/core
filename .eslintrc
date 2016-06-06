@@ -12,17 +12,17 @@
     "meteor"
   ],
   "rules": {
-    "new-cap": ["error", {
+    "new-cap": [ 2, {
       "capIsNewExceptions": [
         "Match.Any", "Match.Object", "Match.ObjectIncluding",
         "Match.OneOf", "Match.Optional", "Match.Where", "Match.Integer",
         "Match.Maybe"
       ]
     }],
-    "meteor/eventmap-params": [ "error", {
+    "meteor/eventmap-params": [ 2, {
       "templateInstanceParamName": "instance"
     }],
-    "import/no-unresolved": [ "error", {
+    "import/no-unresolved": [ 2, {
       "ignore": ["^meteor/"]
     }]
   }
