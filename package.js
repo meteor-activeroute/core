@@ -6,7 +6,7 @@ Package.describe({
   summary: 'The core utilities for active-route',
 });
 
-Package.onUse(function onUse(api) {
+Package.onUse((api) => {
   api.versionsFrom('1.3.2.4');
   api.use([
     'check',
