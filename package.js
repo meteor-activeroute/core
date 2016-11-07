@@ -14,5 +14,5 @@ Package.onUse((api) => {
     'ecmascript',
     'reactive-dict',
   ]);
-  api.mainModule('lib/activeroute.js');
+  api.mainModule('lib/core.js');
 });
