@@ -1,3 +1,4 @@
+// @flow
 Package.describe({
   documentation: 'README.md',
   git: 'https://github.com/meteor-activeroute/core.git',
