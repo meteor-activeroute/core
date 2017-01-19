@@ -1,6 +1,7 @@
 {
   "name": "meteor-activeroute-core",
   "version": "0.1.0",
+  "description": "ActiveRoute core logic",
   "main": "package.js",
   "devDependencies": {
     "babel-eslint": "^7.1.1",
@@ -17,15 +18,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/meteor-activeroute/iron-router.git"
+    "url": "git+https://github.com/meteor-activeroute/core.git"
   },
   "author": "Simon Fridlund <simon@fridlund.email>",
   "license": "MIT",
   "private": true,
   "bugs": {
-    "url": "https://github.com/meteor-activeroute/iron-router/issues"
+    "url": "https://github.com/meteor-activeroute/core/issues"
   },
-  "homepage": "https://github.com/meteor-activeroute/iron-router",
+  "homepage": "https://github.com/meteor-activeroute/core",
   "scripts": {
     "lint": "eslint ."
   }

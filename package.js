@@ -3,7 +3,7 @@ Package.describe({
   documentation: 'README.md',
   git: 'https://github.com/meteor-activeroute/core.git',
   name: 'activeroute:core',
-  summary: 'The core of activeroute',
+  summary: 'Core logic for active-route.',
   version: '0.1.0',
 });
 
