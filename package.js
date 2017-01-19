@@ -7,12 +7,10 @@ Package.describe({
   version: '0.1.0',
 });
 
-Package.onUse((api) => {
-  api.versionsFrom('1.4');
-  api.use([
-    'check',
-    'ecmascript',
-    'reactive-dict',
-  ]);
-  api.mainModule('lib/core.js');
+Package.onUse(function onUse(api) {
+  api.versionsFrom('1.4.2.2');
+
+  api.use('ecmascript');
+
+  api.mainModule('lib/core.js', ['client', 'server'], { lazy: true });
 });
