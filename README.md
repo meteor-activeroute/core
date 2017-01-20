@@ -1,10 +1,9 @@
 # activeroute:core
 
-The core logic for activeroute.
+This is the core logic of activeroute.
 
-The core of activeroute gives you javascript helpers for figuring out which
-route is the current route.
-
+activeroute:core provides javascript helpers for
+figuring out which route is the current route.
 For blaze helpers please see [activeroute:blaze].
 
 ## Install
