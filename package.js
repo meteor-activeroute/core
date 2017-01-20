@@ -1,9 +1,9 @@
 // @flow
 Package.describe({
   documentation: 'README.md',
-  git: 'https://github.com/meteor-activeroute/core.git',
+  git: 'git+https://github.com/meteor-activeroute/core.git',
   name: 'activeroute:core',
-  summary: 'Core logic for active-route.',
+  summary: 'The core logic for activeroute',
   version: '0.1.0',
 });
 
