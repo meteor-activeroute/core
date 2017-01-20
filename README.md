@@ -1,4 +1,4 @@
-# ACTIVEROUTE:CORE
+# activeroute:core
 
 The core logic for activeroute.
 
