@@ -32,6 +32,6 @@ activeRoute.name('home');
 // return true/false
 ```
 
-[activeroute:blaze]: (https://github.com/meteor-activeroute/blaze)
-[activeroute:flow-router]: (https://github.com/meteor-activeroute/flow-router)
-[activeroute:iron-router]: (https://github.com/meteor-activeroute/iron-router)
+[activeroute:blaze]: https://github.com/meteor-activeroute/blaze
+[activeroute:flow-router]: https://github.com/meteor-activeroute/flow-router
+[activeroute:iron-router]: https://github.com/meteor-activeroute/iron-router
