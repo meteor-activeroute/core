@@ -1,8 +1,9 @@
 {
-  "name": "meteor-activeroute-core",
-  "version": "0.1.0",
+  "author": "Simon Fridlund <simon@fridlund.email>",
+  "bugs": {
+    "url": "https://github.com/meteor-activeroute/core/issues"
+  },
   "description": "The core logic for activeroute",
-  "main": "package.js",
   "devDependencies": {
     "babel-eslint": "^7.1.1",
     "babel-preset-es2016": "^6.16.0",
@@ -15,18 +16,17 @@
     "eslint-plugin-no-use-extend-native": "^0.3.12",
     "eslint-plugin-prefer-object-spread": "^1.1.0"
   },
+  "homepage": "https://github.com/meteor-activeroute/core",
+  "license": "MIT",
+  "main": "package.js",
+  "name": "meteor-activeroute-core",
+  "private": true,
   "repository": {
     "type": "git",
     "url": "git+https://github.com/meteor-activeroute/core.git"
   },
-  "author": "Simon Fridlund <simon@fridlund.email>",
-  "license": "MIT",
-  "private": true,
-  "bugs": {
-    "url": "https://github.com/meteor-activeroute/core/issues"
-  },
-  "homepage": "https://github.com/meteor-activeroute/core",
   "scripts": {
     "lint": "eslint ."
-  }
+  },
+  "version": "0.1.0"
 }
