@@ -4,7 +4,7 @@ Package.describe({
   git: 'git+https://github.com/meteor-activeroute/core.git',
   name: 'activeroute:core',
   summary: 'The core logic for activeroute',
-  version: '1.0.0-alpha.1',
+  version: '1.0.0-alpha.5',
 });
 
 Package.onUse(function onUse(api) {
