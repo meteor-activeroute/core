@@ -6,9 +6,6 @@
   "description": "The core logic for activeroute",
   "devDependencies": {
     "babel-eslint": "^7.1.1",
-    "babel-preset-es2016": "^6.16.0",
-    "babel-preset-es2017": "^6.16.0",
-    "babel-preset-stage-2": "^6.18.0",
     "eslint": "^3.14.0",
     "eslint-config-airbnb-base": "^11.0.1",
     "eslint-plugin-import": "^2.2.0",
