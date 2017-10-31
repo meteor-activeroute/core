@@ -1,16 +1,14 @@
 # activeroute:core
 
-<a target="_blank" rel="nofollow" href='https://app.codesponsor.io/link/n1D2X97JRsqcMiGrQVhHNMDy/meteor-activeroute/core'>
-  <img alt='Sponsor' width='888' height='68' src='https://app.codesponsor.io/embed/n1D2X97JRsqcMiGrQVhHNMDy/meteor-activeroute/core.svg' />
-</a>
-
----
-
 This is the core logic of activeroute.
 
 activeroute:core provides javascript helpers for
 figuring out which route is the current route.
 For blaze helpers please see [activeroute:blaze].
+
+<a target="_blank" rel="nofollow" href='https://app.codesponsor.io/link/n1D2X97JRsqcMiGrQVhHNMDy/meteor-activeroute/core'>
+  <img alt='Sponsor' width='888' height='68' src='https://app.codesponsor.io/embed/n1D2X97JRsqcMiGrQVhHNMDy/meteor-activeroute/core.svg' />
+</a>
 
 ## Install
 
