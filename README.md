@@ -1,7 +1,3 @@
-<a target="_blank" rel="nofollow" href='https://app.codesponsor.io/link/n1D2X97JRsqcMiGrQVhHNMDy/meteor-activeroute/core'>
-  <img alt='Sponsor' width='888' height='68' src='https://app.codesponsor.io/embed/n1D2X97JRsqcMiGrQVhHNMDy/meteor-activeroute/core.svg' />
-</a>
-
 # activeroute:core
 
 This is the core logic of activeroute.
